@@ -1,5 +1,5 @@
 # 0x01. ES6 Promises
-
+#
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/75862d67ca51a042003c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230418T153740Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2f76fd39d42f63966a36dda182c8571603ed1eb43187ac8770a88342c5cf5246)
 
 Resources
