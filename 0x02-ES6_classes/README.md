@@ -1,5 +1,5 @@
 # 0x02. ES6 classes
-
+#
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/817248fb77fb5c2cef3f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230420%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230420T103239Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9af621ef9d480d9507c1e582e4ecb8a079b143ea74d5327d4dac3c8eef1fecc0)
 
 Resources
