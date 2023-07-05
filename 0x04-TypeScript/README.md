@@ -1,5 +1,5 @@
 # 0x04. Typescript
-
+#
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/baea85b5e9a9fb5c36ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230426%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230426T124344Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4285e4462a1846f73355c6a4a507817438b2e66c4e1aae33ef0d73d0fc33b659)
 
 Resources
